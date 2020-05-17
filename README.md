@@ -1,9 +1,9 @@
-# Interfaces
-## Daily Java Project for: 5/13/2020
+# Inheritance
+## Daily Java Project for: 5/17/2020
 
 ### Description:
 
-A super simple Interface class 
+Super simple Interface practice 
 
 ### Daily Java Projects
 I'm creating a small Java project each day to help me learn Java. These aren't rigorously tested, but instead exist just so I can get a better understanding of some portion of Java.
